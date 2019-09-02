@@ -2,11 +2,11 @@
   {
     "name":"react-webpack-pc",
     "url":"github:i-jump/ts-libraries",
-    "description":"基于webpack构建的react项目模板"
+    "description":"vue脚手架(basic)"
   },
   {
     "name":"vue-webpack-pc",
     "url":"github:ruichengping/vue-webpack-pc",
-    "description":"基于webpack构建的vue项目模板"
+    "description":"vue多项目合并(merge)"
   }
 ]
